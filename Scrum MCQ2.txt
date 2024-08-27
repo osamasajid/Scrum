@@ -1,0 +1,165 @@
+
+Scrum MCQ - Part 2. 20 Questions 
+
+1. Which of the following are Scrum roles?
+A. Product Owner
+B. Scrum Master
+C. Development Team
+D. Project Manager
+E. Stakeholders
+Correct Answers: A, B, C
+
+2. Which events are time-boxed in Scrum?
+A. Sprint Planning
+B. Daily Scrum
+C. Sprint Review
+D. Sprint Retrospective
+E. Backlog Refinement
+Correct Answers: A, B, C, D
+
+
+3. What are the responsibilities of the Product Owner?
+A. Managing the Product Backlog
+B. Ensuring the Development Team understands items in the Product Backlog
+C. Prioritizing the Product Backlog
+D. Facilitating Scrum events
+E. Maximizing the value of the product
+Correct Answers: A, B, C, E
+
+4. Which of the following are Scrum artifacts?
+A. Product Backlog
+B. Sprint Backlog
+C. Increment
+D. Burndown Chart
+E. Gantt Chart
+Correct Answers: A, B, C
+
+5. What are the characteristics of a “Done” increment?
+A. It meets the Definition of Done
+B. It is potentially releasable
+C. It is complete and meets acceptance criteria
+D. It is ready for production deployment
+E. It is approved by the Scrum Master
+Correct Answers: A, B, C
+
+6. Which of the following are responsibilities of the Scrum Master?
+A. Removing impediments to the Development Team’s progress
+B. Facilitating Scrum events as requested or needed
+C. Coaching the Development Team in self-organization and cross-functionality
+D. Managing the Product Backlog
+E. Ensuring the Scrum process is followed
+Correct Answers: A, B, C, E
+
+7. What are the benefits of using Scrum?
+A. Increased transparency
+B. Improved adaptability
+C. Faster time to market
+D. Enhanced team collaboration
+E. Reduced need for documentation
+Correct Answers: A, B, C, D
+
+8. Which of the following are part of the Scrum framework?
+A. Sprints
+B. Kanban boards
+C. Daily Stand-ups
+D. Sprint Reviews
+E. Retrospectives
+Correct Answers: A, C, D, E
+
+9. What are the key activities during Sprint Planning?
+A. Defining the Sprint Goal
+B. Selecting items from the Product Backlog for the Sprint
+C. Creating the Sprint Backlog
+D. Assigning tasks to team members
+E. Estimating the effort required for each item
+Correct Answers: A, B, C, E
+
+10. Which of the following are true about the Daily Scrum?
+A. It is time-boxed to 15 minutes
+B. It is held at the same time and place each day
+C. It is facilitated by the Scrum Master
+D. It is a status update meeting
+E. It helps the team inspect progress toward the Sprint Goal
+Correct Answers: A, B, E
+
+11. What are the outcomes of a Sprint Review?
+A. A revised Product Backlog
+B. Feedback from stakeholders
+C. A demonstration of the increment
+D. A plan for the next Sprint
+E. Identification of process improvements
+Correct Answers: A, B, C
+
+12. Which of the following are true about the Sprint Retrospective?
+A. It is time-boxed to 3 hours for a one-month Sprint
+B. It focuses on the process and team collaboration
+C. It results in actionable improvement items
+D. It is facilitated by the Product Owner
+E. It is held at the end of each Sprint
+Correct Answers: A, B, C, E
+
+13. What are the key elements of the Definition of Done?
+A. Code is written and tested
+B. Documentation is updated
+C. Code is reviewed and approved
+D. Product increment is integrated and deployed
+E. User acceptance testing is completed
+Correct Answers: A, B, C, D
+
+14. Which of the following are true about the Product Backlog?
+A. It is a living document
+B. It is prioritized by the Product Owner
+C. It contains all work to be done on the product
+D. It is updated during the Sprint
+E. It is managed by the Scrum Master
+Correct Answers: A, B, C, D
+
+15. What are the characteristics of a good Product Backlog item?
+A. It is clear and concise
+B. It is estimated
+C. It is prioritized
+D. It is assigned to a team member
+E. It is testable
+Correct Answers: A, B, C, E
+
+16. Which of the following are true about the Increment?
+A. It is the sum of all Product Backlog items completed during a Sprint
+B. It must be in a usable condition
+C. It is reviewed during the Sprint Review
+D. It is potentially releasable
+E. It is approved by the Scrum Master
+Correct Answers: A, B, C, D
+
+17. What are the responsibilities of the Development Team?
+A. Delivering a potentially releasable increment at the end of each Sprint
+B. Self-organizing to accomplish their work
+C. Estimating the effort required for Product Backlog items
+D. Managing the Product Backlog
+E. Participating in Sprint Planning and Retrospectives
+Correct Answers: A, B, C, E
+
+18. Which of the following are true about Sprint Goals?
+A. They provide focus and direction for the Sprint
+B. They are defined during Sprint Planning
+C. They can be changed during the Sprint
+D. They are created by the Scrum Master
+E. They help the team understand the purpose of the Sprint
+Correct Answers: A, B, E
+
+19. What are the benefits of having a Definition of Done?
+A. It ensures transparency and quality
+B. It provides a shared understanding of what “Done” means
+C. It helps the team deliver consistent increments
+D. It reduces the need for rework
+E. It is created by the Product Owner
+Correct Answers: A, B, C, D
+
+20. Which of the following are true about Scrum?
+A. It is a framework for developing and sustaining complex products
+B. It is based on empirical process control theory
+C. It emphasizes collaboration, flexibility, and continuous improvement
+D. It requires detailed upfront planning
+E. It is used only for software development
+Correct Answers: A, B, C
+
+
