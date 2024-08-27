@@ -1,0 +1,114 @@
+Scrum True/False questions
+
+
+Scrum is a framework for developing, delivering, and sustaining complex products.
+True
+False
+Correct Answer: True
+
+The Scrum Team consists of a Product Owner, the Development Team, and a Project Manager.
+True
+False
+Correct Answer: False (The Scrum Team consists of a Product Owner, the Development Team, and a Scrum Master.)
+
+The Product Backlog is a living artifact that is continuously updated.
+True
+False
+Correct Answer: True
+
+The Sprint Review is an opportunity to inspect the increment and adapt the Product Backlog.
+True
+False
+Correct Answer: True
+
+The Scrum Master is responsible for managing the Development Team.
+True
+False
+Correct Answer: False (The Scrum Master is responsible for ensuring Scrum is understood and enacted.)
+
+The Daily Scrum is a 15-minute time-boxed event for the Development Team to synchronize activities and create a plan for the next 24 hours.
+True
+False
+Correct Answer: True
+
+The Definition of Done is a shared understanding of what it means for work to be complete.
+True
+False
+Correct Answer: True
+
+The Sprint Retrospective is held at the beginning of each Sprint.
+True
+False
+Correct Answer: False (The Sprint Retrospective is held at the end of each Sprint.)
+
+The Product Owner is the sole person responsible for managing the Product Backlog.
+True
+False
+Correct Answer: True
+
+Scrum requires detailed upfront planning before the project starts.
+True
+False
+Correct Answer: False (Scrum is based on empirical process control and emphasizes iterative progress through Sprints.)
+
+-------------------------------------------------------------------
+
+The Scrum Master is responsible for managing the Development Team.
+True
+False
+Correct Answer: False
+Reason: The Scrum Master serves the team by facilitating Scrum practices and removing impediments but does not manage the Development Team.
+
+The Product Owner is responsible for maximizing the value of the product resulting from the work of the Development Team.
+True
+False
+Correct Answer: True
+Reason: The Product Owner's primary responsibility is to maximize the value of the product, ensuring that the Development Team works on the most valuable items.
+
+A Sprint can be canceled by anyone in the Scrum Team.
+True
+False
+Correct Answer: False
+Reason: Only the Product Owner has the authority to cancel a Sprint, typically based on business considerations.
+
+The Development Team must consist of between 3 and 9 members.
+True
+False
+Correct Answer: False
+Reason: While the Scrum Guide recommends a Development Team size of 3 to 9, it is not a strict requirement; teams can be smaller or larger depending on the context.
+
+The Scrum framework is designed to be a lightweight process framework that helps people, teams, and organizations generate value through adaptive solutions for complex problems.
+True
+False
+Correct Answer: True
+Reason: This statement accurately reflects the purpose of the Scrum framework as described in the Scrum Guide.
+
+The Definition of Done is a shared understanding of what it means for work to be complete.
+True
+False
+Correct Answer: True
+Reason: The Definition of Done provides clarity and transparency about what constitutes a complete product increment.
+
+The Scrum Team should be cross-functional, meaning it has all the competencies needed to accomplish the work without depending on others not part of the team.
+True
+False
+Correct Answer: True
+Reason: A cross-functional team is essential in Scrum to ensure that the team can deliver a potentially releasable Increment without external dependencies.
+
+The Daily Scrum is a meeting for the Development Team to report their progress to the Scrum Master.
+True
+False
+Correct Answer: False
+Reason: The Daily Scrum is a time for the Development Team to synchronize their activities and plan the next 24 hours, not a reporting session to the Scrum Master.
+
+The Sprint Review is an opportunity to inspect the Increment and adapt the Product Backlog if needed.
+True
+False
+Correct Answer: True
+Reason: The Sprint Review focuses on inspecting the Increment and discussing adjustments to the Product Backlog based on feedback.
+
+The Scrum Team is composed of the Scrum Master, the Product Owner, and the Development Team.
+True
+False
+Correct Answer: True
+Reason: The Scrum Team includes all three roles, which work collaboratively to deliver value through the Scrum process.
